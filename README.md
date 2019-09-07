@@ -7,7 +7,7 @@
   <li>Clone your forked repository onto your local computer.</li>
   <li>To play the game, 'cd' into the connect_four project folder.</li>
   <li>Initiate the game by typing into the command line '$ ruby ./lib connect_four.rb'</li>
-</ul>
+</ol>
 
 <h2>Test Driven Development Verification</h2>
 <p>To run tests, type '$bundle exe rspec'
